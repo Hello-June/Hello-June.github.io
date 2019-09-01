@@ -1,7 +1,7 @@
 # --- General options --- #
 
 # Name of website
-title: Qinglong website
+title: Qinglong's website
 
 # Short description of your site
 description: A virtual proof that I'm awesome
@@ -70,8 +70,8 @@ social-network-links:
   rss: true
   email: "someone@example.com"
   facebook: deanattali
-  github: daattali
-  twitter: daattali
+  github: Hello-June
+#  twitter: daattali
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
